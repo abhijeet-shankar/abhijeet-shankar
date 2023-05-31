@@ -35,7 +35,7 @@
 
 ### 📈 Activity Graph
   
-<a href="https://github.com/abhijeet-shankar/github-readme-activity-graph"><img alt="Abhijeet's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhijeet-shankar&theme=react-dark" /><a>
+[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeet-shankar&bg_color=000000&color=2aead3&line=9e4c98&point=0fe6b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies
