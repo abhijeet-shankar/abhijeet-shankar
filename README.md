@@ -3,10 +3,9 @@
 
 # 💫 About Me:
 
- 🔭 I’m currently working on Transfer Learning <br> 
- 👯 I’m looking to collaborate on Web Scraping and Deep Learning <br>
- 🌱 I’m currently learning Flask <br>
- 💬 Ask me about Ai,ML,Football,Cricket<br>
+ 🔭 I’m currently working on MYSELF <br>
+ 🌱 I’m currently learning Gen AI <br>
+ 💬 Ask me about AI,ML,Football,Cricket<br>
  ⚡ Fun fact: Cat says Meow 
 
 
@@ -28,9 +27,9 @@
 <div align="center">
   
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=abhijeet-shankar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-shankar&theme=midnight-purple&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhijeet-shankar&theme=android-dark&border_radius=5.9&card_width=500)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhijeet-shankar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
+
 </div>
 
 ### 📈 Activity Graph
