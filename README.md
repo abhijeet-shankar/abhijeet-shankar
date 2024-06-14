@@ -3,17 +3,18 @@
 
 # 💫 About Me:
 
- 🔭 I’m currently working on MYSELF <br>
- 🌱 I’m currently learning Gen AI <br>
- 💬 Ask me about AI,ML,Football,Cricket<br>
- ⚡ Fun fact: Cat says Meow 
+ 🔭 I’m currently working on MYSELF `>.<` <br>
+ 🌱 I’m currently learning to Live `:0` <br>
+ 💬 Ask me about AI,ML,Football,Cricket `:p`<br>
+ ⚡ Fun fact: [Click Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 # 🌐 Socials:
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_abhijeet_17) 
-  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_abhijeet_17) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-shankar)  
+<!-- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)]() -->
 </div>
 
 # 💻 Tech Stack:
@@ -26,10 +27,9 @@
 # 📊 GitHub Stats:
 <div align="center">
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhijeet-shankar&theme=cobalt)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=abhijeet-shankar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhijeet-shankar&theme=tokyonight-duo&border_radius=4.1)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhijeet-shankar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-shankar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/abhijeet-shankar/github-readme-stats)
 </div>
 
 ### 📈 Activity Graph
