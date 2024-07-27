@@ -29,7 +29,7 @@
 # 📊 GitHub Stats:
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhijeet-shankar&theme=cobalt)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhijeet-shankar&theme=cobalt)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=abhijeet-shankar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-shankar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/abhijeet-shankar/github-readme-stats)
 </div>
